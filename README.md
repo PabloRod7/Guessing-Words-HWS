@@ -1,6 +1,8 @@
 # Project-8-Guessing-Words
  
- https://www.hackingwithswift.com/100/36
+ Build a word-guessing game and master strings once and for all.
+
+
  
  Includes solutions to the [challenges](https://www.hackingwithswift.com/read/8/6/wrap-up).
 
